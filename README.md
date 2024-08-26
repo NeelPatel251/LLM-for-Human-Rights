@@ -1,4 +1,5 @@
-Human Rights and Law Model
+# Human Rights and Law Model
+
 This project involves training and fine-tuning a DistilBERT model for classifying human rights articles and legal documents. The goal is to develop a model that can return the most relevant human rights or legal information based on a given query.
 
 Project Overview
